@@ -1,7 +1,7 @@
 ## android零碎笔记
 ### 项目构建与资源使用
 * android v26 支持res文件里面定义font文件夹 自定义font文件
-![](http://oepm6q4qh.bkt.clouddn.com/android-note.png)
+![](/img/android-note.png)
 
 
 ### 常见API使用

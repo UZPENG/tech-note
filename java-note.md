@@ -1,12 +1,13 @@
-# java基础笔记
-### 面向对象三大特征
+# 面向对象三大特征
+
 封装、继承、多态
-### java的修饰符总结
+
+# java的修饰符总结
 * private、public、protected
 * static、final
 * default、volatile、native、transient
 
-### java数据类型
+# java数据类型
 基本数据类型
 * byte、short、int、long、float、double、char、boolean
 
@@ -17,7 +18,7 @@
 引用类型：数组
 * 初始化、访问、方法
 
-### 运算符
+# 运算符
 算术运算符
 * 加、减、乘、除、取模
 * 算术运算将byte、short、char自动提升为int型
@@ -31,7 +32,7 @@
 
 三目运算符
 
-### 流程控制
+# 流程控制
 条件
 * if-else、switch、嵌套if-else
 
@@ -42,7 +43,7 @@
 * break、continue、return
 
 
-### 类
+# 类
 定义类
 * final 不可继承、abstract 抽象类
 
@@ -66,7 +67,7 @@ import和import static
 * 重载是参数列表不一样
 * 重写是参数列表完全一样
 
-### 接口
+# 接口
 接口的变量
 * 默认private static final修饰
 
